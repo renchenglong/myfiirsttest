@@ -1,3 +1,7 @@
 this is my fist git test txt file.
 i Like it
 let me look commit
+
+this is dev 
+this is dev
+add this
